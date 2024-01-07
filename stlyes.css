@@ -1,0 +1,33 @@
+html, body {
+    
+    height: 100%;
+    margin: 0;
+    display: flex;
+    /* align-items: center; */
+    justify-content: center;
+}
+
+form {
+    padding-top: 10%;
+    margin-top: 10%;
+    text-align: center;
+    font-size: 30px;
+}
+
+input[type="number"] {
+    color: #000000; /* สีของตัวเลขใน input */
+}
+
+button {
+    background-color: #000000; /* สีแดง */
+    color: #ffffff; /* สีขาว */
+    border: none;
+    /* padding: 10px 20px; */
+    cursor: pointer;
+}
+nav {
+    padding-top: 10%;
+    margin-top: 10%;
+    text-align: center;
+    font-size: 30px;
+}
